@@ -1,8 +1,8 @@
-numpy==1.26.4
-matplotlib==3.10.8
-scipy==1.17.1
-opencv-python-headless==4.11.0.86
+numpy
+matplotlib
+scipy
+opencv-python-headless
 scikit-image
-Pillow==12.3.0
-ipywidgets==8.1.9
-ipympl==0.10.0
+Pillow
+ipywidgets
+ipympl
